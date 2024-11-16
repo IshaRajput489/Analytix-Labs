@@ -1,0 +1,501 @@
+Student ID,Name,Age,Enrollment Year,Major,GPA,Email
+S0001,Student 1,22,2020,Mathematics,2.89,student1@college.edu
+S0002,Student 2,25,2021,Computer Science,2.63,student2@college.edu
+S0003,Student 3,23,2022,Biology,2.23,student3@college.edu
+S0004,Student 4,24,2020,Physics,2.01,student4@college.edu
+S0005,Student 5,22,2019,Chemistry,2.06,student5@college.edu
+S0006,Student 6,22,2021,Physics,3.57,student6@college.edu
+S0007,Student 7,18,2022,Biology,3.21,student7@college.edu
+S0008,Student 8,25,2021,Biology,3.44,student8@college.edu
+S0009,Student 9,22,2019,Computer Science,2.57,student9@college.edu
+S0010,Student 10,21,2020,Mathematics,2.35,student10@college.edu
+S0011,Student 11,24,2020,Mathematics,3.06,student11@college.edu
+S0012,Student 12,19,2021,Mathematics,2.4,student12@college.edu
+S0013,Student 13,25,2022,Physics,3.27,student13@college.edu
+S0014,Student 14,25,2021,Mathematics,3.23,student14@college.edu
+S0015,Student 15,18,2020,Computer Science,3.97,student15@college.edu
+S0016,Student 16,19,2020,Chemistry,3.26,student16@college.edu
+S0017,Student 17,21,2019,Biology,2.52,student17@college.edu
+S0018,Student 18,20,2019,Physics,3.82,student18@college.edu
+S0019,Student 19,20,2021,Chemistry,2.45,student19@college.edu
+S0020,Student 20,21,2020,Computer Science,3.28,student20@college.edu
+S0021,Student 21,21,2020,Physics,2.87,student21@college.edu
+S0022,Student 22,19,2021,Physics,3.76,student22@college.edu
+S0023,Student 23,20,2019,Computer Science,2.75,student23@college.edu
+S0024,Student 24,18,2020,Mathematics,2.81,student24@college.edu
+S0025,Student 25,21,2020,Chemistry,2.87,student25@college.edu
+S0026,Student 26,20,2021,Physics,2.99,student26@college.edu
+S0027,Student 27,25,2022,Mathematics,3.61,student27@college.edu
+S0028,Student 28,23,2020,Computer Science,3.73,student28@college.edu
+S0029,Student 29,24,2019,Mathematics,2.93,student29@college.edu
+S0030,Student 30,23,2022,Mathematics,2.56,student30@college.edu
+S0031,Student 31,18,2022,Computer Science,3.6,student31@college.edu
+S0032,Student 32,23,2021,Biology,3.23,student32@college.edu
+S0033,Student 33,23,2022,Computer Science,2.21,student33@college.edu
+S0034,Student 34,24,2021,Biology,3.19,student34@college.edu
+S0035,Student 35,22,2020,Computer Science,3.77,student35@college.edu
+S0036,Student 36,23,2020,Physics,2.74,student36@college.edu
+S0037,Student 37,24,2021,Chemistry,2.3,student37@college.edu
+S0038,Student 38,19,2020,Mathematics,3.53,student38@college.edu
+S0039,Student 39,18,2020,Physics,2.33,student39@college.edu
+S0040,Student 40,18,2019,Chemistry,2.82,student40@college.edu
+S0041,Student 41,25,2019,Mathematics,2.16,student41@college.edu
+S0042,Student 42,19,2020,Chemistry,2.48,student42@college.edu
+S0043,Student 43,25,2022,Computer Science,2.83,student43@college.edu
+S0044,Student 44,20,2021,Mathematics,3.32,student44@college.edu
+S0045,Student 45,19,2020,Chemistry,3.37,student45@college.edu
+S0046,Student 46,22,2019,Chemistry,2.56,student46@college.edu
+S0047,Student 47,23,2022,Mathematics,2.77,student47@college.edu
+S0048,Student 48,22,2020,Biology,3.9,student48@college.edu
+S0049,Student 49,25,2020,Biology,2.87,student49@college.edu
+S0050,Student 50,25,2019,Computer Science,2.51,student50@college.edu
+S0051,Student 51,23,2019,Mathematics,3.24,student51@college.edu
+S0052,Student 52,22,2022,Chemistry,3.04,student52@college.edu
+S0053,Student 53,23,2019,Biology,2.9,student53@college.edu
+S0054,Student 54,22,2022,Chemistry,3.59,student54@college.edu
+S0055,Student 55,21,2020,Biology,2.32,student55@college.edu
+S0056,Student 56,24,2020,Physics,2.37,student56@college.edu
+S0057,Student 57,22,2022,Computer Science,3.73,student57@college.edu
+S0058,Student 58,21,2021,Mathematics,3.8,student58@college.edu
+S0059,Student 59,21,2022,Mathematics,3.63,student59@college.edu
+S0060,Student 60,18,2020,Computer Science,2.31,student60@college.edu
+S0061,Student 61,23,2022,Biology,3.39,student61@college.edu
+S0062,Student 62,24,2019,Physics,3.86,student62@college.edu
+S0063,Student 63,25,2022,Biology,2.66,student63@college.edu
+S0064,Student 64,20,2020,Physics,3.54,student64@college.edu
+S0065,Student 65,25,2021,Computer Science,3.67,student65@college.edu
+S0066,Student 66,25,2020,Biology,3.66,student66@college.edu
+S0067,Student 67,22,2020,Physics,2.42,student67@college.edu
+S0068,Student 68,25,2021,Biology,2.17,student68@college.edu
+S0069,Student 69,19,2021,Mathematics,2.53,student69@college.edu
+S0070,Student 70,24,2021,Chemistry,3.56,student70@college.edu
+S0071,Student 71,25,2021,Chemistry,2.14,student71@college.edu
+S0072,Student 72,20,2020,Physics,2.52,student72@college.edu
+S0073,Student 73,25,2021,Mathematics,2.62,student73@college.edu
+S0074,Student 74,22,2019,Biology,2.15,student74@college.edu
+S0075,Student 75,18,2021,Biology,3.28,student75@college.edu
+S0076,Student 76,22,2021,Physics,2.34,student76@college.edu
+S0077,Student 77,19,2020,Physics,2.14,student77@college.edu
+S0078,Student 78,22,2019,Mathematics,3.05,student78@college.edu
+S0079,Student 79,25,2021,Mathematics,3.73,student79@college.edu
+S0080,Student 80,21,2020,Mathematics,2.56,student80@college.edu
+S0081,Student 81,20,2020,Physics,3.29,student81@college.edu
+S0082,Student 82,21,2019,Computer Science,3.36,student82@college.edu
+S0083,Student 83,19,2020,Chemistry,2.62,student83@college.edu
+S0084,Student 84,19,2021,Mathematics,3.81,student84@college.edu
+S0085,Student 85,20,2021,Computer Science,2.31,student85@college.edu
+S0086,Student 86,20,2020,Physics,2.57,student86@college.edu
+S0087,Student 87,20,2021,Physics,3.25,student87@college.edu
+S0088,Student 88,21,2019,Chemistry,3.81,student88@college.edu
+S0089,Student 89,19,2022,Computer Science,3.22,student89@college.edu
+S0090,Student 90,18,2020,Mathematics,3.71,student90@college.edu
+S0091,Student 91,21,2020,Mathematics,3.36,student91@college.edu
+S0092,Student 92,19,2021,Computer Science,3.25,student92@college.edu
+S0093,Student 93,20,2022,Computer Science,2.65,student93@college.edu
+S0094,Student 94,22,2021,Chemistry,3.13,student94@college.edu
+S0095,Student 95,24,2019,Chemistry,2.33,student95@college.edu
+S0096,Student 96,21,2019,Chemistry,2.71,student96@college.edu
+S0097,Student 97,24,2019,Mathematics,2.19,student97@college.edu
+S0098,Student 98,22,2020,Chemistry,3.29,student98@college.edu
+S0099,Student 99,25,2022,Physics,3.62,student99@college.edu
+S0100,Student 100,22,2021,Mathematics,3.46,student100@college.edu
+S0101,Student 101,24,2022,Mathematics,3.79,student101@college.edu
+S0102,Student 102,22,2020,Physics,2.27,student102@college.edu
+S0103,Student 103,21,2020,Biology,2.91,student103@college.edu
+S0104,Student 104,22,2019,Biology,3.18,student104@college.edu
+S0105,Student 105,19,2019,Chemistry,3.22,student105@college.edu
+S0106,Student 106,23,2019,Biology,2.15,student106@college.edu
+S0107,Student 107,18,2022,Biology,2.37,student107@college.edu
+S0108,Student 108,19,2022,Chemistry,2.3,student108@college.edu
+S0109,Student 109,24,2021,Computer Science,2.92,student109@college.edu
+S0110,Student 110,22,2021,Physics,3.3,student110@college.edu
+S0111,Student 111,23,2019,Computer Science,2.41,student111@college.edu
+S0112,Student 112,21,2020,Mathematics,2.6,student112@college.edu
+S0113,Student 113,25,2020,Mathematics,3.1,student113@college.edu
+S0114,Student 114,22,2019,Chemistry,3.75,student114@college.edu
+S0115,Student 115,22,2019,Mathematics,3.46,student115@college.edu
+S0116,Student 116,18,2021,Chemistry,3.75,student116@college.edu
+S0117,Student 117,25,2021,Physics,2.44,student117@college.edu
+S0118,Student 118,24,2022,Physics,2.35,student118@college.edu
+S0119,Student 119,19,2022,Biology,3.44,student119@college.edu
+S0120,Student 120,21,2021,Mathematics,2.84,student120@college.edu
+S0121,Student 121,18,2021,Physics,2.25,student121@college.edu
+S0122,Student 122,22,2021,Mathematics,2.75,student122@college.edu
+S0123,Student 123,22,2020,Chemistry,2.09,student123@college.edu
+S0124,Student 124,25,2020,Mathematics,3.45,student124@college.edu
+S0125,Student 125,24,2020,Computer Science,3.98,student125@college.edu
+S0126,Student 126,22,2022,Computer Science,2.5,student126@college.edu
+S0127,Student 127,21,2020,Biology,2.81,student127@college.edu
+S0128,Student 128,21,2019,Mathematics,2.88,student128@college.edu
+S0129,Student 129,23,2021,Mathematics,2.52,student129@college.edu
+S0130,Student 130,20,2020,Computer Science,3.47,student130@college.edu
+S0131,Student 131,23,2020,Mathematics,3.02,student131@college.edu
+S0132,Student 132,21,2020,Mathematics,2.96,student132@college.edu
+S0133,Student 133,20,2020,Biology,3.51,student133@college.edu
+S0134,Student 134,21,2022,Biology,2.14,student134@college.edu
+S0135,Student 135,25,2021,Biology,3.93,student135@college.edu
+S0136,Student 136,19,2019,Mathematics,2.85,student136@college.edu
+S0137,Student 137,18,2020,Chemistry,3.87,student137@college.edu
+S0138,Student 138,25,2021,Biology,2.51,student138@college.edu
+S0139,Student 139,23,2019,Computer Science,3.61,student139@college.edu
+S0140,Student 140,22,2021,Mathematics,2.56,student140@college.edu
+S0141,Student 141,22,2021,Computer Science,3.29,student141@college.edu
+S0142,Student 142,18,2021,Mathematics,2.08,student142@college.edu
+S0143,Student 143,18,2020,Chemistry,3.34,student143@college.edu
+S0144,Student 144,18,2022,Chemistry,2.2,student144@college.edu
+S0145,Student 145,19,2021,Computer Science,3.51,student145@college.edu
+S0146,Student 146,21,2021,Biology,2.72,student146@college.edu
+S0147,Student 147,25,2021,Physics,2.65,student147@college.edu
+S0148,Student 148,19,2021,Biology,3.6,student148@college.edu
+S0149,Student 149,24,2020,Chemistry,3.63,student149@college.edu
+S0150,Student 150,20,2021,Computer Science,3.27,student150@college.edu
+S0151,Student 151,19,2021,Physics,3.6,student151@college.edu
+S0152,Student 152,19,2020,Physics,3.44,student152@college.edu
+S0153,Student 153,22,2021,Mathematics,3.99,student153@college.edu
+S0154,Student 154,18,2019,Mathematics,3.77,student154@college.edu
+S0155,Student 155,19,2022,Computer Science,3.16,student155@college.edu
+S0156,Student 156,22,2022,Computer Science,3.46,student156@college.edu
+S0157,Student 157,22,2019,Biology,2.62,student157@college.edu
+S0158,Student 158,24,2020,Biology,3.6,student158@college.edu
+S0159,Student 159,22,2022,Biology,2.61,student159@college.edu
+S0160,Student 160,24,2019,Chemistry,2.55,student160@college.edu
+S0161,Student 161,24,2019,Mathematics,3.65,student161@college.edu
+S0162,Student 162,24,2021,Biology,2.39,student162@college.edu
+S0163,Student 163,22,2021,Physics,2.96,student163@college.edu
+S0164,Student 164,25,2019,Computer Science,2.47,student164@college.edu
+S0165,Student 165,20,2020,Physics,2.38,student165@college.edu
+S0166,Student 166,23,2021,Physics,2.01,student166@college.edu
+S0167,Student 167,21,2020,Mathematics,3.56,student167@college.edu
+S0168,Student 168,21,2021,Physics,2.98,student168@college.edu
+S0169,Student 169,20,2019,Biology,3.38,student169@college.edu
+S0170,Student 170,22,2019,Physics,2.72,student170@college.edu
+S0171,Student 171,18,2021,Computer Science,3.13,student171@college.edu
+S0172,Student 172,22,2020,Mathematics,3.86,student172@college.edu
+S0173,Student 173,21,2020,Biology,3.78,student173@college.edu
+S0174,Student 174,22,2021,Computer Science,3.56,student174@college.edu
+S0175,Student 175,18,2022,Physics,2.15,student175@college.edu
+S0176,Student 176,18,2020,Computer Science,3.17,student176@college.edu
+S0177,Student 177,22,2021,Biology,2.41,student177@college.edu
+S0178,Student 178,22,2020,Biology,3.08,student178@college.edu
+S0179,Student 179,20,2022,Computer Science,2.65,student179@college.edu
+S0180,Student 180,18,2020,Physics,3.88,student180@college.edu
+S0181,Student 181,21,2020,Mathematics,3.2,student181@college.edu
+S0182,Student 182,25,2021,Computer Science,3.21,student182@college.edu
+S0183,Student 183,25,2019,Biology,2.09,student183@college.edu
+S0184,Student 184,25,2020,Biology,2.67,student184@college.edu
+S0185,Student 185,21,2022,Mathematics,2.81,student185@college.edu
+S0186,Student 186,25,2022,Computer Science,3.97,student186@college.edu
+S0187,Student 187,23,2022,Computer Science,3.63,student187@college.edu
+S0188,Student 188,18,2020,Physics,3.95,student188@college.edu
+S0189,Student 189,22,2020,Computer Science,3.52,student189@college.edu
+S0190,Student 190,21,2019,Biology,2.03,student190@college.edu
+S0191,Student 191,19,2022,Computer Science,2.24,student191@college.edu
+S0192,Student 192,22,2020,Physics,2.04,student192@college.edu
+S0193,Student 193,20,2022,Computer Science,3.29,student193@college.edu
+S0194,Student 194,21,2022,Computer Science,3.3,student194@college.edu
+S0195,Student 195,25,2022,Computer Science,3.34,student195@college.edu
+S0196,Student 196,20,2022,Mathematics,2.88,student196@college.edu
+S0197,Student 197,23,2022,Biology,3.27,student197@college.edu
+S0198,Student 198,25,2021,Biology,2.88,student198@college.edu
+S0199,Student 199,25,2019,Biology,2.3,student199@college.edu
+S0200,Student 200,19,2022,Computer Science,2.6,student200@college.edu
+S0201,Student 201,19,2022,Computer Science,3.38,student201@college.edu
+S0202,Student 202,18,2020,Chemistry,2.22,student202@college.edu
+S0203,Student 203,21,2021,Physics,2.32,student203@college.edu
+S0204,Student 204,22,2019,Computer Science,2.85,student204@college.edu
+S0205,Student 205,21,2022,Mathematics,3.81,student205@college.edu
+S0206,Student 206,19,2021,Physics,3.86,student206@college.edu
+S0207,Student 207,19,2022,Computer Science,3.34,student207@college.edu
+S0208,Student 208,18,2021,Biology,2.97,student208@college.edu
+S0209,Student 209,23,2022,Chemistry,2.85,student209@college.edu
+S0210,Student 210,18,2021,Mathematics,2.2,student210@college.edu
+S0211,Student 211,19,2019,Mathematics,3.33,student211@college.edu
+S0212,Student 212,19,2020,Biology,3.19,student212@college.edu
+S0213,Student 213,23,2021,Physics,3.49,student213@college.edu
+S0214,Student 214,25,2022,Physics,3.89,student214@college.edu
+S0215,Student 215,23,2022,Biology,2.36,student215@college.edu
+S0216,Student 216,19,2020,Chemistry,2.82,student216@college.edu
+S0217,Student 217,22,2020,Mathematics,2.16,student217@college.edu
+S0218,Student 218,20,2022,Physics,2.67,student218@college.edu
+S0219,Student 219,23,2022,Mathematics,3.84,student219@college.edu
+S0220,Student 220,25,2020,Mathematics,2.37,student220@college.edu
+S0221,Student 221,19,2021,Biology,2.09,student221@college.edu
+S0222,Student 222,19,2021,Mathematics,3.04,student222@college.edu
+S0223,Student 223,18,2019,Physics,3.05,student223@college.edu
+S0224,Student 224,18,2021,Mathematics,2.71,student224@college.edu
+S0225,Student 225,20,2021,Mathematics,3.82,student225@college.edu
+S0226,Student 226,20,2020,Mathematics,3.38,student226@college.edu
+S0227,Student 227,20,2021,Mathematics,3.74,student227@college.edu
+S0228,Student 228,22,2022,Biology,3.39,student228@college.edu
+S0229,Student 229,18,2022,Computer Science,2.39,student229@college.edu
+S0230,Student 230,21,2020,Biology,3.37,student230@college.edu
+S0231,Student 231,19,2022,Chemistry,2.96,student231@college.edu
+S0232,Student 232,19,2022,Computer Science,2.04,student232@college.edu
+S0233,Student 233,23,2020,Mathematics,3.09,student233@college.edu
+S0234,Student 234,19,2020,Chemistry,2.12,student234@college.edu
+S0235,Student 235,25,2020,Chemistry,2.81,student235@college.edu
+S0236,Student 236,21,2020,Chemistry,2.39,student236@college.edu
+S0237,Student 237,21,2021,Chemistry,2.13,student237@college.edu
+S0238,Student 238,21,2022,Computer Science,3.62,student238@college.edu
+S0239,Student 239,24,2019,Mathematics,2.18,student239@college.edu
+S0240,Student 240,24,2020,Physics,3.37,student240@college.edu
+S0241,Student 241,24,2020,Computer Science,2.04,student241@college.edu
+S0242,Student 242,19,2020,Computer Science,4.0,student242@college.edu
+S0243,Student 243,24,2021,Chemistry,3.52,student243@college.edu
+S0244,Student 244,19,2020,Physics,3.56,student244@college.edu
+S0245,Student 245,21,2022,Mathematics,2.2,student245@college.edu
+S0246,Student 246,21,2019,Mathematics,2.68,student246@college.edu
+S0247,Student 247,24,2020,Mathematics,3.42,student247@college.edu
+S0248,Student 248,25,2021,Computer Science,3.82,student248@college.edu
+S0249,Student 249,20,2020,Biology,2.21,student249@college.edu
+S0250,Student 250,23,2021,Computer Science,2.62,student250@college.edu
+S0251,Student 251,20,2022,Chemistry,2.36,student251@college.edu
+S0252,Student 252,20,2020,Computer Science,2.48,student252@college.edu
+S0253,Student 253,25,2020,Biology,3.61,student253@college.edu
+S0254,Student 254,19,2021,Computer Science,2.1,student254@college.edu
+S0255,Student 255,22,2021,Computer Science,3.52,student255@college.edu
+S0256,Student 256,18,2019,Physics,3.11,student256@college.edu
+S0257,Student 257,20,2019,Biology,2.5,student257@college.edu
+S0258,Student 258,23,2022,Computer Science,3.24,student258@college.edu
+S0259,Student 259,24,2022,Mathematics,3.33,student259@college.edu
+S0260,Student 260,24,2020,Physics,2.91,student260@college.edu
+S0261,Student 261,22,2022,Computer Science,3.74,student261@college.edu
+S0262,Student 262,20,2021,Computer Science,3.28,student262@college.edu
+S0263,Student 263,24,2020,Mathematics,2.82,student263@college.edu
+S0264,Student 264,20,2022,Physics,3.82,student264@college.edu
+S0265,Student 265,24,2019,Mathematics,2.33,student265@college.edu
+S0266,Student 266,19,2020,Biology,3.81,student266@college.edu
+S0267,Student 267,21,2019,Mathematics,3.6,student267@college.edu
+S0268,Student 268,19,2019,Biology,3.33,student268@college.edu
+S0269,Student 269,25,2021,Mathematics,2.45,student269@college.edu
+S0270,Student 270,22,2020,Chemistry,2.8,student270@college.edu
+S0271,Student 271,18,2021,Computer Science,2.91,student271@college.edu
+S0272,Student 272,20,2019,Biology,3.17,student272@college.edu
+S0273,Student 273,24,2020,Chemistry,3.34,student273@college.edu
+S0274,Student 274,25,2019,Computer Science,3.98,student274@college.edu
+S0275,Student 275,25,2021,Chemistry,2.54,student275@college.edu
+S0276,Student 276,18,2020,Biology,2.56,student276@college.edu
+S0277,Student 277,20,2021,Biology,3.73,student277@college.edu
+S0278,Student 278,19,2021,Computer Science,3.28,student278@college.edu
+S0279,Student 279,23,2022,Computer Science,2.77,student279@college.edu
+S0280,Student 280,21,2022,Computer Science,2.12,student280@college.edu
+S0281,Student 281,20,2021,Chemistry,3.37,student281@college.edu
+S0282,Student 282,23,2021,Computer Science,3.37,student282@college.edu
+S0283,Student 283,25,2020,Chemistry,2.04,student283@college.edu
+S0284,Student 284,19,2021,Biology,3.51,student284@college.edu
+S0285,Student 285,20,2021,Computer Science,3.45,student285@college.edu
+S0286,Student 286,21,2021,Computer Science,2.64,student286@college.edu
+S0287,Student 287,21,2022,Chemistry,2.87,student287@college.edu
+S0288,Student 288,22,2020,Biology,3.54,student288@college.edu
+S0289,Student 289,18,2022,Physics,2.65,student289@college.edu
+S0290,Student 290,20,2022,Biology,2.46,student290@college.edu
+S0291,Student 291,20,2022,Computer Science,2.38,student291@college.edu
+S0292,Student 292,23,2022,Physics,2.01,student292@college.edu
+S0293,Student 293,25,2021,Physics,3.42,student293@college.edu
+S0294,Student 294,18,2022,Computer Science,2.4,student294@college.edu
+S0295,Student 295,23,2021,Computer Science,3.98,student295@college.edu
+S0296,Student 296,23,2021,Chemistry,2.56,student296@college.edu
+S0297,Student 297,22,2019,Mathematics,3.99,student297@college.edu
+S0298,Student 298,25,2020,Mathematics,3.58,student298@college.edu
+S0299,Student 299,22,2020,Computer Science,3.28,student299@college.edu
+S0300,Student 300,25,2021,Biology,2.14,student300@college.edu
+S0301,Student 301,23,2019,Mathematics,2.53,student301@college.edu
+S0302,Student 302,21,2021,Physics,3.01,student302@college.edu
+S0303,Student 303,21,2021,Computer Science,3.14,student303@college.edu
+S0304,Student 304,20,2022,Biology,3.89,student304@college.edu
+S0305,Student 305,22,2019,Physics,2.31,student305@college.edu
+S0306,Student 306,25,2020,Computer Science,3.24,student306@college.edu
+S0307,Student 307,24,2020,Biology,3.53,student307@college.edu
+S0308,Student 308,25,2022,Physics,3.31,student308@college.edu
+S0309,Student 309,23,2019,Biology,2.93,student309@college.edu
+S0310,Student 310,22,2022,Chemistry,3.75,student310@college.edu
+S0311,Student 311,23,2020,Mathematics,3.43,student311@college.edu
+S0312,Student 312,24,2020,Mathematics,3.37,student312@college.edu
+S0313,Student 313,18,2020,Computer Science,2.99,student313@college.edu
+S0314,Student 314,23,2021,Biology,2.85,student314@college.edu
+S0315,Student 315,25,2020,Biology,3.95,student315@college.edu
+S0316,Student 316,18,2021,Physics,3.43,student316@college.edu
+S0317,Student 317,18,2022,Physics,3.12,student317@college.edu
+S0318,Student 318,21,2019,Computer Science,2.99,student318@college.edu
+S0319,Student 319,23,2022,Physics,2.08,student319@college.edu
+S0320,Student 320,25,2020,Chemistry,3.83,student320@college.edu
+S0321,Student 321,23,2020,Biology,3.15,student321@college.edu
+S0322,Student 322,18,2021,Mathematics,2.88,student322@college.edu
+S0323,Student 323,22,2021,Mathematics,3.48,student323@college.edu
+S0324,Student 324,18,2022,Mathematics,2.87,student324@college.edu
+S0325,Student 325,22,2021,Mathematics,2.97,student325@college.edu
+S0326,Student 326,19,2022,Computer Science,3.05,student326@college.edu
+S0327,Student 327,21,2020,Computer Science,2.29,student327@college.edu
+S0328,Student 328,25,2020,Computer Science,3.71,student328@college.edu
+S0329,Student 329,19,2022,Mathematics,2.6,student329@college.edu
+S0330,Student 330,21,2022,Mathematics,2.25,student330@college.edu
+S0331,Student 331,21,2021,Mathematics,2.24,student331@college.edu
+S0332,Student 332,18,2019,Physics,2.38,student332@college.edu
+S0333,Student 333,21,2021,Chemistry,2.68,student333@college.edu
+S0334,Student 334,24,2022,Physics,3.84,student334@college.edu
+S0335,Student 335,20,2021,Mathematics,2.92,student335@college.edu
+S0336,Student 336,21,2022,Computer Science,3.76,student336@college.edu
+S0337,Student 337,18,2022,Computer Science,2.4,student337@college.edu
+S0338,Student 338,22,2021,Mathematics,2.83,student338@college.edu
+S0339,Student 339,19,2020,Mathematics,3.25,student339@college.edu
+S0340,Student 340,20,2022,Mathematics,3.98,student340@college.edu
+S0341,Student 341,23,2021,Chemistry,3.05,student341@college.edu
+S0342,Student 342,25,2020,Computer Science,2.3,student342@college.edu
+S0343,Student 343,23,2022,Biology,3.85,student343@college.edu
+S0344,Student 344,24,2019,Chemistry,3.75,student344@college.edu
+S0345,Student 345,23,2020,Computer Science,2.44,student345@college.edu
+S0346,Student 346,19,2021,Computer Science,2.68,student346@college.edu
+S0347,Student 347,18,2022,Mathematics,3.08,student347@college.edu
+S0348,Student 348,24,2019,Biology,2.53,student348@college.edu
+S0349,Student 349,25,2022,Biology,3.39,student349@college.edu
+S0350,Student 350,22,2021,Computer Science,3.8,student350@college.edu
+S0351,Student 351,18,2021,Computer Science,3.12,student351@college.edu
+S0352,Student 352,18,2021,Computer Science,2.08,student352@college.edu
+S0353,Student 353,19,2019,Biology,3.02,student353@college.edu
+S0354,Student 354,24,2019,Computer Science,3.57,student354@college.edu
+S0355,Student 355,22,2021,Mathematics,2.63,student355@college.edu
+S0356,Student 356,19,2019,Physics,3.2,student356@college.edu
+S0357,Student 357,21,2020,Mathematics,3.7,student357@college.edu
+S0358,Student 358,24,2020,Biology,3.23,student358@college.edu
+S0359,Student 359,18,2022,Computer Science,2.53,student359@college.edu
+S0360,Student 360,19,2020,Physics,2.62,student360@college.edu
+S0361,Student 361,23,2021,Computer Science,3.76,student361@college.edu
+S0362,Student 362,21,2021,Mathematics,3.87,student362@college.edu
+S0363,Student 363,19,2021,Mathematics,2.11,student363@college.edu
+S0364,Student 364,18,2021,Biology,3.46,student364@college.edu
+S0365,Student 365,25,2021,Computer Science,3.07,student365@college.edu
+S0366,Student 366,23,2019,Biology,2.4,student366@college.edu
+S0367,Student 367,24,2020,Chemistry,2.34,student367@college.edu
+S0368,Student 368,23,2022,Physics,2.06,student368@college.edu
+S0369,Student 369,22,2020,Computer Science,2.08,student369@college.edu
+S0370,Student 370,18,2022,Mathematics,3.67,student370@college.edu
+S0371,Student 371,24,2019,Mathematics,3.45,student371@college.edu
+S0372,Student 372,25,2020,Chemistry,2.58,student372@college.edu
+S0373,Student 373,20,2022,Mathematics,2.36,student373@college.edu
+S0374,Student 374,19,2022,Chemistry,2.28,student374@college.edu
+S0375,Student 375,21,2021,Biology,2.55,student375@college.edu
+S0376,Student 376,22,2021,Mathematics,3.18,student376@college.edu
+S0377,Student 377,22,2019,Physics,3.76,student377@college.edu
+S0378,Student 378,23,2020,Physics,2.26,student378@college.edu
+S0379,Student 379,19,2022,Mathematics,2.32,student379@college.edu
+S0380,Student 380,19,2020,Mathematics,2.52,student380@college.edu
+S0381,Student 381,21,2020,Computer Science,2.06,student381@college.edu
+S0382,Student 382,22,2019,Computer Science,2.69,student382@college.edu
+S0383,Student 383,20,2019,Computer Science,3.65,student383@college.edu
+S0384,Student 384,22,2022,Chemistry,2.11,student384@college.edu
+S0385,Student 385,20,2022,Computer Science,3.84,student385@college.edu
+S0386,Student 386,19,2019,Computer Science,2.69,student386@college.edu
+S0387,Student 387,20,2022,Computer Science,2.33,student387@college.edu
+S0388,Student 388,18,2022,Physics,3.87,student388@college.edu
+S0389,Student 389,19,2022,Computer Science,3.27,student389@college.edu
+S0390,Student 390,23,2021,Physics,2.47,student390@college.edu
+S0391,Student 391,22,2020,Physics,2.24,student391@college.edu
+S0392,Student 392,21,2020,Mathematics,3.25,student392@college.edu
+S0393,Student 393,18,2020,Computer Science,2.3,student393@college.edu
+S0394,Student 394,21,2020,Physics,3.49,student394@college.edu
+S0395,Student 395,21,2022,Computer Science,2.02,student395@college.edu
+S0396,Student 396,19,2021,Physics,2.46,student396@college.edu
+S0397,Student 397,21,2020,Computer Science,2.43,student397@college.edu
+S0398,Student 398,21,2022,Biology,3.48,student398@college.edu
+S0399,Student 399,23,2020,Computer Science,2.88,student399@college.edu
+S0400,Student 400,23,2022,Physics,3.73,student400@college.edu
+S0401,Student 401,18,2021,Biology,2.79,student401@college.edu
+S0402,Student 402,22,2020,Biology,3.63,student402@college.edu
+S0403,Student 403,19,2022,Physics,2.37,student403@college.edu
+S0404,Student 404,21,2022,Chemistry,3.5,student404@college.edu
+S0405,Student 405,18,2020,Chemistry,3.12,student405@college.edu
+S0406,Student 406,24,2022,Computer Science,2.22,student406@college.edu
+S0407,Student 407,24,2022,Chemistry,3.29,student407@college.edu
+S0408,Student 408,25,2019,Chemistry,3.3,student408@college.edu
+S0409,Student 409,21,2020,Chemistry,2.32,student409@college.edu
+S0410,Student 410,19,2020,Computer Science,3.97,student410@college.edu
+S0411,Student 411,23,2020,Biology,3.99,student411@college.edu
+S0412,Student 412,18,2020,Physics,2.33,student412@college.edu
+S0413,Student 413,18,2022,Computer Science,3.77,student413@college.edu
+S0414,Student 414,25,2021,Computer Science,3.31,student414@college.edu
+S0415,Student 415,23,2020,Physics,3.88,student415@college.edu
+S0416,Student 416,24,2020,Physics,2.09,student416@college.edu
+S0417,Student 417,21,2021,Physics,2.3,student417@college.edu
+S0418,Student 418,22,2019,Chemistry,3.95,student418@college.edu
+S0419,Student 419,23,2022,Physics,2.51,student419@college.edu
+S0420,Student 420,25,2021,Biology,3.66,student420@college.edu
+S0421,Student 421,23,2022,Chemistry,2.83,student421@college.edu
+S0422,Student 422,22,2022,Physics,3.71,student422@college.edu
+S0423,Student 423,21,2022,Biology,2.47,student423@college.edu
+S0424,Student 424,18,2021,Physics,3.3,student424@college.edu
+S0425,Student 425,22,2019,Computer Science,3.3,student425@college.edu
+S0426,Student 426,18,2022,Mathematics,2.36,student426@college.edu
+S0427,Student 427,25,2020,Computer Science,2.04,student427@college.edu
+S0428,Student 428,25,2022,Physics,2.45,student428@college.edu
+S0429,Student 429,20,2020,Computer Science,3.15,student429@college.edu
+S0430,Student 430,25,2022,Biology,2.9,student430@college.edu
+S0431,Student 431,19,2019,Computer Science,2.42,student431@college.edu
+S0432,Student 432,23,2020,Physics,3.04,student432@college.edu
+S0433,Student 433,20,2020,Physics,3.67,student433@college.edu
+S0434,Student 434,22,2019,Biology,2.16,student434@college.edu
+S0435,Student 435,23,2021,Biology,2.31,student435@college.edu
+S0436,Student 436,18,2021,Chemistry,2.5,student436@college.edu
+S0437,Student 437,20,2022,Computer Science,2.72,student437@college.edu
+S0438,Student 438,18,2021,Physics,3.39,student438@college.edu
+S0439,Student 439,25,2022,Computer Science,3.61,student439@college.edu
+S0440,Student 440,25,2021,Physics,2.94,student440@college.edu
+S0441,Student 441,23,2021,Chemistry,3.41,student441@college.edu
+S0442,Student 442,23,2022,Chemistry,2.78,student442@college.edu
+S0443,Student 443,19,2020,Chemistry,3.12,student443@college.edu
+S0444,Student 444,25,2022,Physics,2.53,student444@college.edu
+S0445,Student 445,19,2022,Physics,3.04,student445@college.edu
+S0446,Student 446,23,2020,Computer Science,2.75,student446@college.edu
+S0447,Student 447,23,2021,Biology,2.96,student447@college.edu
+S0448,Student 448,18,2021,Computer Science,3.38,student448@college.edu
+S0449,Student 449,18,2019,Chemistry,3.56,student449@college.edu
+S0450,Student 450,24,2019,Biology,2.47,student450@college.edu
+S0451,Student 451,18,2022,Computer Science,3.83,student451@college.edu
+S0452,Student 452,21,2021,Physics,3.67,student452@college.edu
+S0453,Student 453,20,2022,Computer Science,3.21,student453@college.edu
+S0454,Student 454,21,2020,Computer Science,2.5,student454@college.edu
+S0455,Student 455,23,2019,Biology,2.53,student455@college.edu
+S0456,Student 456,21,2022,Biology,3.51,student456@college.edu
+S0457,Student 457,23,2022,Chemistry,2.88,student457@college.edu
+S0458,Student 458,23,2019,Biology,3.2,student458@college.edu
+S0459,Student 459,21,2021,Biology,3.07,student459@college.edu
+S0460,Student 460,21,2019,Mathematics,3.67,student460@college.edu
+S0461,Student 461,22,2020,Mathematics,3.4,student461@college.edu
+S0462,Student 462,22,2021,Computer Science,3.05,student462@college.edu
+S0463,Student 463,18,2021,Computer Science,2.27,student463@college.edu
+S0464,Student 464,23,2021,Mathematics,3.88,student464@college.edu
+S0465,Student 465,21,2022,Physics,2.97,student465@college.edu
+S0466,Student 466,18,2020,Biology,3.76,student466@college.edu
+S0467,Student 467,19,2021,Biology,2.55,student467@college.edu
+S0468,Student 468,25,2019,Mathematics,3.05,student468@college.edu
+S0469,Student 469,22,2021,Biology,3.22,student469@college.edu
+S0470,Student 470,19,2019,Chemistry,3.56,student470@college.edu
+S0471,Student 471,19,2021,Biology,3.73,student471@college.edu
+S0472,Student 472,23,2020,Mathematics,2.1,student472@college.edu
+S0473,Student 473,19,2021,Biology,3.67,student473@college.edu
+S0474,Student 474,25,2020,Computer Science,2.46,student474@college.edu
+S0475,Student 475,20,2020,Physics,2.85,student475@college.edu
+S0476,Student 476,25,2022,Chemistry,2.24,student476@college.edu
+S0477,Student 477,21,2019,Computer Science,2.48,student477@college.edu
+S0478,Student 478,21,2022,Mathematics,3.92,student478@college.edu
+S0479,Student 479,18,2019,Physics,2.61,student479@college.edu
+S0480,Student 480,21,2020,Biology,2.46,student480@college.edu
+S0481,Student 481,24,2019,Mathematics,3.91,student481@college.edu
+S0482,Student 482,25,2021,Physics,2.04,student482@college.edu
+S0483,Student 483,19,2021,Biology,2.22,student483@college.edu
+S0484,Student 484,19,2020,Biology,2.58,student484@college.edu
+S0485,Student 485,23,2021,Mathematics,2.67,student485@college.edu
+S0486,Student 486,21,2021,Biology,2.53,student486@college.edu
+S0487,Student 487,19,2022,Computer Science,3.18,student487@college.edu
+S0488,Student 488,24,2021,Physics,2.81,student488@college.edu
+S0489,Student 489,19,2019,Biology,3.92,student489@college.edu
+S0490,Student 490,18,2021,Biology,2.74,student490@college.edu
+S0491,Student 491,22,2022,Mathematics,2.56,student491@college.edu
+S0492,Student 492,18,2022,Computer Science,2.91,student492@college.edu
+S0493,Student 493,18,2022,Biology,2.99,student493@college.edu
+S0494,Student 494,20,2021,Mathematics,3.27,student494@college.edu
+S0495,Student 495,21,2022,Physics,2.15,student495@college.edu
+S0496,Student 496,25,2019,Chemistry,3.54,student496@college.edu
+S0497,Student 497,20,2020,Mathematics,3.08,student497@college.edu
+S0498,Student 498,21,2020,Computer Science,2.81,student498@college.edu
+S0499,Student 499,24,2019,Computer Science,3.98,student499@college.edu
+S0500,Student 500,25,2021,Physics,3.69,student500@college.edu

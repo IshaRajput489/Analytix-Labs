@@ -1,0 +1,11 @@
+Course ID,Course Name,Department,Credits,Faculty ID
+C001,Data Structures,Computer Science,3,F001
+C002,Algorithms,Physics,4,F002
+C003,Linear Algebra,Biology,4,F003
+C004,Physics 101,Physics,3,F004
+C005,Biology 101,Physics,4,F005
+C006,Organic Chemistry,Mathematics,4,F006
+C007,Discrete Math,Physics,3,F007
+C008,AI Introduction,Physics,4,F008
+C009,Statistics,Biology,3,F009
+C010,Computer Networks,Biology,4,F010
